@@ -1,0 +1,23 @@
+*{
+
+	background-color: burlywood;
+	text-align: center
+}
+
+.list li{
+	list-style: none;
+	 display:inline-block;
+	margin-left: 40px;
+	padding: 5px;
+	font-size: 24px;
+	
+}
+a{
+	text-decoration: none;
+	color:black
+}
+div{
+	display: inline-block;
+	border:1px solid black;
+	
+}
