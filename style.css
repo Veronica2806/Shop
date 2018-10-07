@@ -21,3 +21,21 @@ div{
 	border:1px solid black;
 	
 }
+ section h1{
+	display: none
+}
+.stockTable{
+	margin-left: 40%;
+}
+td, th{
+	padding: 10px
+}
+th{
+	background-color:gray;
+}
+form{
+	display: inline-block;
+	border:1px solid black;
+	padding:5px
+	
+}
